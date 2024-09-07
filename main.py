@@ -3,23 +3,6 @@ import random
 import time
 import os
 from colorama import Fore
-print(" █▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀█ ")
-print(" █░░╦─╦╔╗╦─╔╗╔╗╔╦╗╔╗░░█ ")
-print(" █░░║║║╠─║─║─║║║║║╠─░░█ ")
-print(" █░░╚╩╝╚╝╚╝╚╝╚╝╩─╩╚╝░░█ ")
-print(" █▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄█ \n")
-print("=======================")
-author = "Pemburu Crypto"
-print("Author: " + author)
-script = "Push Discord"
-print("Script: " + script)
-telegram = "@p2crypto"
-print("Telegram: " + telegram)
-youtube = " @usermuda"
-print("Youtube: " + youtube)
-print("=======================")
-print('TIDAK DIPERJUAL-BELIKAN')
-print("=======================\n")
 
 time.sleep(1)
 
